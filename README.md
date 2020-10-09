@@ -2,16 +2,28 @@
   <img src = "https://github.com/Hariom1509/Hariom1509/blob/main/resources/bean.gif" width = "500" height = "350">
   </p>
 
-
+<br>
+<br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Hariom1509.Hariom1509)
 
-#           Hi there 👋                       
+<br>
 
-- Hey, I'm Hariom, a sophomore in Electrical Engineering Department [@NIT Surat](https://svnit.ac.in), currently working on front-end web development.
+#           Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">                       
 
+<br>
+
+- Hey, I'm Hariom(He/Him), a sophomore in Electrical Engineering Department(minors in Electronics and Communication) [@NIT Surat](https://svnit.ac.in).
+<br>
+-👨🏽‍💻Currently, working on Front-End Development.
+<br>
+-🌱Currently, learning MongoDB and Django.
+<br>
+
+<br>
 
 **Languages and Tools:**
+<br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -22,6 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+<br>
 
 <details>
 <summary>📈 My GitHub Stats</summary>
@@ -29,6 +42,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hariom1509&show_icons=true&theme=gotham" alt="Hariom1509" />
 
 </details>
+
+<br>
 
 **Feel free to reach out to me**
 
