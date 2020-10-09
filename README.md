@@ -17,7 +17,7 @@
 -👨🏽‍💻Currently, working on Front-End Development;
 <br>
 <br>
--🌱Currently, learning MongoDB and Django.;
+-🌱Currently, learning MongoDB and Django;
 <br>
 
 <br>
