@@ -12,7 +12,7 @@
 
 <br>
 
-- Hey, I'm Hariom(He/Him), a sophomore in Electrical Engineering Department(minors in Electronics and Communication) [@NIT Surat](https://svnit.ac.in).
+-Hey, I'm Hariom(He/Him), a sophomore in Electrical Engineering Department(minors in Electronics and Communication) [@NIT Surat](https://svnit.ac.in).
 <br>
 -👨🏽‍💻Currently, working on Front-End Development.
 <br>
