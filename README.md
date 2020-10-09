@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "https://github.com/Hariom1509/Hariom1509/blob/main/resources/bean.gif" width = "500" height = "350">
+  <img src = "https://github.com/Hariom1509/Hariom1509/blob/main/resources/bean.gif" width = "600" height = "400">
   </p>
 
 <br>
@@ -8,15 +8,15 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Hariom1509.Hariom1509)
 <br>
 
-#           Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">                       
+#           Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">                       
 
-<br>
 
--Hey, I'm Hariom(He/Him), a sophomore in Electrical Engineering Department(minors in Electronics and Communication) [@NIT Surat](https://svnit.ac.in).
+-😀Hi, I'm Hariom(He/Him), a sophomore in Electrical Engineering Department (minors in Electronics and Communication Engineering) [@NIT Surat](https://svnit.ac.in).
 <br>
--👨🏽‍💻Currently, working on Front-End Development.
 <br>
--🌱Currently, learning MongoDB and Django.
+-👨🏽‍💻Currently, working on Front-End Development;
+<br>
+-🌱Currently, learning MongoDB and Django.;
 <br>
 
 <br>
