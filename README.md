@@ -40,7 +40,7 @@
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hariom1509&show_icons=true&theme=gotham" alt="Hariom1509" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom1509&layout=compact" alt="Hariom1509" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom1509&layout=compact" alt="Hariom1509" /></p>
 </details>
 
 <br>
