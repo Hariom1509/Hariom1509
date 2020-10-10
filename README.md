@@ -40,9 +40,11 @@
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hariom1509&show_icons=true&theme=gotham" alt="Hariom1509" />
+  <br>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom1509&layout=compact" alt="Hariom1509" /></p>
+<br>
 </details>
-
+<hr>
 <br>
 
 **Feel free to reach out to me**
