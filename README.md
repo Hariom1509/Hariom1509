@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "https://github.com/Hariom1509/Hariom1509/blob/main/resources/bean.gif" width = "600" height = "400">
+  <img src = "resources/hello.gif" width = "600" height = "400">
   </p>
 
 <br>
@@ -50,10 +50,6 @@
 
 <a href="https://www.linkedin.com/in/hariom-vyas-014631198/">
   <img align="left" alt="Hariom's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://slack.com/app_redirect?channel=U01C3CF7LDU">
-  <img align="left" alt="Hariom's slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />
 </a>
 
 <a href="mailto:hariomvyas1509@gmail.com">
