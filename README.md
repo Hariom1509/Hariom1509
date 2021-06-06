@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "resources/hello.gif" width = "600" height = "400">
+  <img src = "resources/hello.gif" width = "700" height = "250">
   </p>
 
 <br>
