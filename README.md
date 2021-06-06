@@ -1,4 +1,5 @@
 <p align = "center">
+  <img src = "resources/hello.gif" width = "700" height = "250">
   </p>
 
 <br>
@@ -53,4 +54,8 @@
 
 <a href="mailto:hariomvyas1509@gmail.com">
   <img align="left" alt="Hariom's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://hariom1509.github.io/">
+  <img align="left" alt="Hariom's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/@icon/themify-icons@1.0.1-alpha.3/icons/link.svg" />
 </a>
