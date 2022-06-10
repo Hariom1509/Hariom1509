@@ -8,16 +8,15 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Hariom1509.Hariom1509)
 <br>
 
-#           Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">                       
+#           HELLO!                      
 
 
--😀Hi, I'm Hariom(He/Him), a sophomore in Electrical Engineering Department (minors in Electronics and Communication Engineering) [@NIT Surat](https://svnit.ac.in).
+-😀I'm Hariom(He/Him), a sophomore in Electrical Engineering Department (minors in Electronics and Communication Engineering) [@NIT Surat](https://svnit.ac.in).
 <br>
 <br>
--👨🏽‍💻Currently, working on Front-End Development;
+-👨🏽‍💻I work on Front-End and Back-End Development;
 <br>
 <br>
--🌱Currently, learning MongoDB and Django;
 <br>
 
 <br>
