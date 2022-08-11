@@ -1,6 +1,6 @@
-# Hello, I am Hariom Vyas
+# Hello <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="40" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=341BAB&background=DBDBDB00&center=true&vCenter=true&width=635&lines=Hi%2C+I+am+Hariom;Nice+to+meet+you;I+am+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=000000&background=DBDBDB00&center=true&vCenter=true&width=635&lines=Hi%2C+I+am+Hariom;Nice+to+meet+you;I+am+a+Software+Engineer)](https://git.io/typing-svg)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Hariom1509.Hariom1509)
 <br>
@@ -25,9 +25,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"></code>
+<code><img height="40" src="https://truffleframework.com/img/favicons/truffle-share.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <br>
 
