@@ -1,21 +1,19 @@
-<p align = "center">
-  <img src = "resources/hello.gif" width = "700" height = "250">
-  </p>
+# Hello, I am Hariom Vyas
 
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%#000080&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;%3F)](https://git.io/typing-svg)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Hariom1509.Hariom1509)
 <br>
+              
 
-#           HELLO!                      
+-Pronouns: He/Him 
+-Final Year Student in Electrical Engineering Department (minors in Electronics and Communication Engineering) @ NIT Surat
+-SWE Intern'22 @ Wells Fargo
+-Full Stack Sofware Developer
+-Blockchain Enthusiast
+<br>
 
 
--😀I'm Hariom(He/Him), a sophomore in Electrical Engineering Department (minors in Electronics and Communication Engineering) [@NIT Surat](https://svnit.ac.in).
-<br>
-<br>
--👨🏽‍💻I work on Front-End and Back-End Development;
-<br>
 <br>
 <br>
 
@@ -23,13 +21,14 @@
 
 **Languages and Tools:**
 <br>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
