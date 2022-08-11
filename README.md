@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%#000080&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;%3F)](https://git.io/typing-svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Hariom1509.Hariom1509)
+![](https://komarev.com/ghpvc/?username=Hariom1509&style=flat-square&color=blueviolet)
 <br>
               
 
@@ -13,9 +13,6 @@
 - Blockchain Enthusiast
 <br>
 
-
-<br>
-<br>
 
 <br>
 
