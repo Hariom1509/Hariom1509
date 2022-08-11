@@ -6,12 +6,17 @@
 <br>
               
 
-- Pronouns: He/Him 
-- Final Year Student in Electrical Engineering Department (minors in Electronics and Communication Engineering) @ NIT Surat
-- SWE Intern'22 @ Wells Fargo
-- Full Stack Sofware Developer
-- Blockchain Enthusiast
+- 😄Pronouns: He/Him 
+- 🎓Final Year Student in Electrical Engineering Department (minors in Electronics and Communication Engineering) @ NIT Surat
+- 💼SWE Intern'22 @ Wells Fargo
+- 💻Full Stack Sofware Developer
+- ⚡Blockchain Enthusiast
 <br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</p>
+
 
 
 <br>
@@ -25,7 +30,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"></code>
 <code><img height="40" src="https://truffleframework.com/img/favicons/truffle-share.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
