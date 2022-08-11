@@ -6,11 +6,11 @@
 <br>
               
 
--Pronouns: He/Him 
--Final Year Student in Electrical Engineering Department (minors in Electronics and Communication Engineering) @ NIT Surat
--SWE Intern'22 @ Wells Fargo
--Full Stack Sofware Developer
--Blockchain Enthusiast
+- Pronouns: He/Him 
+- Final Year Student in Electrical Engineering Department (minors in Electronics and Communication Engineering) @ NIT Surat
+- SWE Intern'22 @ Wells Fargo
+- Full Stack Sofware Developer
+- Blockchain Enthusiast
 <br>
 
 
