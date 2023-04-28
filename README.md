@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=000000&background=DBDBDB00&center=true&vCenter=true&width=635&lines=Hi%2C+I+am+Hariom;Nice+to+meet+you;I+am+a+Software+Engineer)](https://git.io/typing-svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Hariom1509.Hariom1509)
 <br>
               
 
